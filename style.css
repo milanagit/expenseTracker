@@ -305,7 +305,7 @@ button[type="submit"]:active {
         gap: 16px;
     }
 
-    .balance-container {
+    .balance-container h1 {
         font-size: 2.5rem;
     }
 
@@ -316,5 +316,9 @@ button[type="submit"]:active {
     
     .transaction {
         padding: 14px 16px;
+    }
+
+    h1 {
+        font-size: 1.8rem;
     }
 }
